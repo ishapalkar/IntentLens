@@ -1,0 +1,1022 @@
+{
+  "Dairy": [
+    {
+      "brand": "Amul",
+      "product": "Butter",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Butter",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Butter",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Butter",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Cheese",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Cheese",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Cheese",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Amul",
+      "product": "Cheese",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Mother Dairy",
+      "product": "Curd",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Mother Dairy",
+      "product": "Curd",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Mother Dairy",
+      "product": "Curd",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Mother Dairy",
+      "product": "Curd",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Govardhan",
+      "product": "Ghee",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Govardhan",
+      "product": "Ghee",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Govardhan",
+      "product": "Ghee",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Govardhan",
+      "product": "Ghee",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nandini",
+      "product": "Milk",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nandini",
+      "product": "Milk",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nandini",
+      "product": "Milk",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nandini",
+      "product": "Milk",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nestle",
+      "product": "Milkmaid",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nestle",
+      "product": "Milkmaid",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nestle",
+      "product": "Milkmaid",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Nestle",
+      "product": "Milkmaid",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Heritage",
+      "product": "Paneer",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Heritage",
+      "product": "Paneer",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Heritage",
+      "product": "Paneer",
+      "category": "Dairy"
+    },
+    {
+      "brand": "Heritage",
+      "product": "Paneer",
+      "category": "Dairy"
+    }
+  ],
+  "Instant Food": [
+    {
+      "brand": "Maggi",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Yippee",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Top Ramen",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Maggi",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Yippee",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Top Ramen",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Maggi",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Yippee",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Top Ramen",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Maggi",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Yippee",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Top Ramen",
+      "product": "Noodles",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Pasta",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Pasta",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Pasta",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Pasta",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Chings",
+      "product": "Secret Sauce",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Chings",
+      "product": "Secret Sauce",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Chings",
+      "product": "Secret Sauce",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Chings",
+      "product": "Secret Sauce",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Knorr",
+      "product": "Soup",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Knorr",
+      "product": "Soup",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Knorr",
+      "product": "Soup",
+      "category": "Instant Food"
+    },
+    {
+      "brand": "Knorr",
+      "product": "Soup",
+      "category": "Instant Food"
+    }
+  ],
+  "Flour": [
+    {
+      "brand": "Aashirvaad",
+      "product": "Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Aashirvaad",
+      "product": "Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Aashirvaad",
+      "product": "Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Aashirvaad",
+      "product": "Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Pillsbury",
+      "product": "Chakki Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Pillsbury",
+      "product": "Chakki Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Pillsbury",
+      "product": "Chakki Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Pillsbury",
+      "product": "Chakki Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Ashirvad",
+      "product": "Maida",
+      "category": "Flour"
+    },
+    {
+      "brand": "Ashirvad",
+      "product": "Maida",
+      "category": "Flour"
+    },
+    {
+      "brand": "Ashirvad",
+      "product": "Maida",
+      "category": "Flour"
+    },
+    {
+      "brand": "Ashirvad",
+      "product": "Maida",
+      "category": "Flour"
+    },
+    {
+      "brand": "Fortune",
+      "product": "Multigrain Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Fortune",
+      "product": "Multigrain Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Fortune",
+      "product": "Multigrain Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Fortune",
+      "product": "Multigrain Atta",
+      "category": "Flour"
+    },
+    {
+      "brand": "Annapurna",
+      "product": "Whole Wheat Flour",
+      "category": "Flour"
+    },
+    {
+      "brand": "Annapurna",
+      "product": "Whole Wheat Flour",
+      "category": "Flour"
+    },
+    {
+      "brand": "Annapurna",
+      "product": "Whole Wheat Flour",
+      "category": "Flour"
+    },
+    {
+      "brand": "Annapurna",
+      "product": "Whole Wheat Flour",
+      "category": "Flour"
+    }
+  ],
+  "Spices": [
+    {
+      "brand": "Everest",
+      "product": "Chilli Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Chilli Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Chilli Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Chilli Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Catch",
+      "product": "Coriander Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Catch",
+      "product": "Coriander Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Catch",
+      "product": "Coriander Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Catch",
+      "product": "Coriander Powder",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Garam Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Garam Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Garam Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Everest",
+      "product": "Garam Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "MDH",
+      "product": "Kitchen King Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "MDH",
+      "product": "Kitchen King Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "MDH",
+      "product": "Kitchen King Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "MDH",
+      "product": "Kitchen King Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Goldiee",
+      "product": "Meat Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Goldiee",
+      "product": "Meat Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Goldiee",
+      "product": "Meat Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Badshah",
+      "product": "Pav Bhaji Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Badshah",
+      "product": "Pav Bhaji Masala",
+      "category": "Spices"
+    },
+    {
+      "brand": "Badshah",
+      "product": "Pav Bhaji Masala",
+      "category": "Spices"
+    }
+  ],
+  "Snacks": [
+    {
+      "brand": "Haldiram",
+      "product": "Bhujia",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Haldiram",
+      "product": "Bhujia",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Haldiram",
+      "product": "Bhujia",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Haldiram",
+      "product": "Bhujia",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Bingo",
+      "product": "Mad Angles",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Bingo",
+      "product": "Mad Angles",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Bingo",
+      "product": "Mad Angles",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Lays",
+      "product": "Magic Masala",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Lays",
+      "product": "Magic Masala",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Lays",
+      "product": "Magic Masala",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Kurkure",
+      "product": "Masala Munch",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Kurkure",
+      "product": "Masala Munch",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Kurkure",
+      "product": "Masala Munch",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Too Yumm",
+      "product": "Multigrain Chips",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Too Yumm",
+      "product": "Multigrain Chips",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Too Yumm",
+      "product": "Multigrain Chips",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Balaji",
+      "product": "Wafers",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Balaji",
+      "product": "Wafers",
+      "category": "Snacks"
+    },
+    {
+      "brand": "Balaji",
+      "product": "Wafers",
+      "category": "Snacks"
+    }
+  ],
+  "Biscuits": [
+    {
+      "brand": "Treat",
+      "product": "Burst",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Treat",
+      "product": "Burst",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Treat",
+      "product": "Burst",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Unibic",
+      "product": "Choco Chip",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Unibic",
+      "product": "Choco Chip",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Unibic",
+      "product": "Choco Chip",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Hide & Seek",
+      "product": "Fab",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Hide & Seek",
+      "product": "Fab",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Hide & Seek",
+      "product": "Fab",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Parle",
+      "product": "G",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Parle",
+      "product": "G",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Parle",
+      "product": "G",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Britannia",
+      "product": "Good Day Biscuits",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Britannia",
+      "product": "Good Day Biscuits",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Britannia",
+      "product": "Good Day Biscuits",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Britannia",
+      "product": "Good Day Biscuits",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Marie Light",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Marie Light",
+      "category": "Biscuits"
+    },
+    {
+      "brand": "Sunfeast",
+      "product": "Marie Light",
+      "category": "Biscuits"
+    }
+  ],
+  "Health": [
+    {
+      "brand": "Himalaya",
+      "product": "Ashwagandha",
+      "category": "Health"
+    },
+    {
+      "brand": "Himalaya",
+      "product": "Ashwagandha",
+      "category": "Health"
+    },
+    {
+      "brand": "Himalaya",
+      "product": "Ashwagandha",
+      "category": "Health"
+    },
+    {
+      "brand": "Zandu",
+      "product": "Balm",
+      "category": "Health"
+    },
+    {
+      "brand": "Zandu",
+      "product": "Balm",
+      "category": "Health"
+    },
+    {
+      "brand": "Zandu",
+      "product": "Balm",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Chyawanprash",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Chyawanprash",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Chyawanprash",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Honey",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Honey",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Honey",
+      "category": "Health"
+    },
+    {
+      "brand": "Dabur",
+      "product": "Honey",
+      "category": "Health"
+    },
+    {
+      "brand": "Baidhyanath",
+      "product": "Triphala Juice",
+      "category": "Health"
+    },
+    {
+      "brand": "Baidhyanath",
+      "product": "Triphala Juice",
+      "category": "Health"
+    },
+    {
+      "brand": "Baidhyanath",
+      "product": "Triphala Juice",
+      "category": "Health"
+    },
+    {
+      "brand": "Organic India",
+      "product": "Tulsi Tea",
+      "category": "Health"
+    },
+    {
+      "brand": "Organic India",
+      "product": "Tulsi Tea",
+      "category": "Health"
+    },
+    {
+      "brand": "Organic India",
+      "product": "Tulsi Tea",
+      "category": "Health"
+    }
+  ],
+  "Condiments": [
+    {
+      "brand": "Tops",
+      "product": "Green Chilli Sauce",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Tops",
+      "product": "Green Chilli Sauce",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Tops",
+      "product": "Green Chilli Sauce",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Veeba",
+      "product": "Mayonnaise",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Veeba",
+      "product": "Mayonnaise",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Veeba",
+      "product": "Mayonnaise",
+      "category": "Condiments"
+    },
+    {
+      "brand": "FunFoods",
+      "product": "Pasta Sauce",
+      "category": "Condiments"
+    },
+    {
+      "brand": "FunFoods",
+      "product": "Pasta Sauce",
+      "category": "Condiments"
+    },
+    {
+      "brand": "FunFoods",
+      "product": "Pasta Sauce",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Tata",
+      "product": "Salt",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Tata",
+      "product": "Salt",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Tata",
+      "product": "Salt",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Tata",
+      "product": "Salt",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Kissan",
+      "product": "Tomato Ketchup",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Kissan",
+      "product": "Tomato Ketchup",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Kissan",
+      "product": "Tomato Ketchup",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Del Monte",
+      "product": "Vinegar",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Del Monte",
+      "product": "Vinegar",
+      "category": "Condiments"
+    },
+    {
+      "brand": "Del Monte",
+      "product": "Vinegar",
+      "category": "Condiments"
+    }
+  ],
+  "Beverages": [
+    {
+      "brand": "Paper Boat",
+      "product": "Aamras",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Paper Boat",
+      "product": "Aamras",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Paper Boat",
+      "product": "Aamras",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Appy Fizz",
+      "product": "Apple Juice",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Appy Fizz",
+      "product": "Apple Juice",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Appy Fizz",
+      "product": "Apple Juice",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Frooti",
+      "product": "Mango Drink",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Frooti",
+      "product": "Mango Drink",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Frooti",
+      "product": "Mango Drink",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Real",
+      "product": "Mixed Fruit Juice",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Real",
+      "product": "Mixed Fruit Juice",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Real",
+      "product": "Mixed Fruit Juice",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Sprite",
+      "product": "Soft Drink",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Sprite",
+      "product": "Soft Drink",
+      "category": "Beverages"
+    },
+    {
+      "brand": "Sprite",
+      "product": "Soft Drink",
+      "category": "Beverages"
+    }
+  ],
+  "Pulses": [
+    {
+      "brand": "Organic Tattva",
+      "product": "Chana Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Organic Tattva",
+      "product": "Chana Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Organic Tattva",
+      "product": "Chana Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Reliance",
+      "product": "Masoor Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Reliance",
+      "product": "Masoor Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Reliance",
+      "product": "Masoor Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Tata Sampann",
+      "product": "Moong Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Tata Sampann",
+      "product": "Moong Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Tata Sampann",
+      "product": "Moong Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "24 Mantra",
+      "product": "Toor Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "24 Mantra",
+      "product": "Toor Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "24 Mantra",
+      "product": "Toor Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Patel's",
+      "product": "Urad Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Patel's",
+      "product": "Urad Dal",
+      "category": "Pulses"
+    },
+    {
+      "brand": "Patel's",
+      "product": "Urad Dal",
+      "category": "Pulses"
+    }
+  ]
+}

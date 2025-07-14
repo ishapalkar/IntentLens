@@ -2,6 +2,7 @@ from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import json
+from routers import recipt_router
 
 app = FastAPI()
 
@@ -12,6 +13,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+app.include_router(recipt_router.router)
 
 class GoalRequest(BaseModel):
     goal: str
@@ -32,7 +34,8 @@ with open("intent_dataset.jsonl") as f:
             # Parse the nested JSON in the output field
             output_data = json.loads(data["output"])
             # Create a flattened structure for easier processing
-            proce data["input"],
+            processed_item = {
+                "input": data["input"],
                 "intent": output_data["intent"],
                 "categories": output_data["categories"],
                 "urgency": output_data.get("urgency", "medium"),

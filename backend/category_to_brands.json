@@ -1,0 +1,77 @@
+{
+  "Dairy": [
+    "Amul",
+    "Govardhan",
+    "Heritage",
+    "Mother Dairy",
+    "Nandini",
+    "Nestle"
+  ],
+  "Instant Food": [
+    "Chings",
+    "Knorr",
+    "Maggi",
+    "Sunfeast",
+    "Top Ramen",
+    "Yippee"
+  ],
+  "Flour": [
+    "Aashirvaad",
+    "Annapurna",
+    "Ashirvad",
+    "Fortune",
+    "Pillsbury"
+  ],
+  "Spices": [
+    "Badshah",
+    "Catch",
+    "Everest",
+    "Goldiee",
+    "MDH"
+  ],
+  "Snacks": [
+    "Balaji",
+    "Bingo",
+    "Haldiram",
+    "Kurkure",
+    "Lays",
+    "Too Yumm"
+  ],
+  "Biscuits": [
+    "Britannia",
+    "Hide & Seek",
+    "Parle",
+    "Sunfeast",
+    "Treat",
+    "Unibic"
+  ],
+  "Health": [
+    "Baidhyanath",
+    "Dabur",
+    "Himalaya",
+    "Organic India",
+    "Zandu"
+  ],
+  "Condiments": [
+    "Del Monte",
+    "FunFoods",
+    "Kissan",
+    "Tata",
+    "Tops",
+    "Veeba"
+  ],
+  "Beverages": [
+    "Appy Fizz",
+    "Frooti",
+    "Paper Boat",
+    "Real",
+    "Sprite"
+  ],
+  "Pulses": [
+    "24 Mantra",
+    "Organic Tattva",
+    "Patel's",
+    "Reliance",
+    "Tata Sampann"
+  ]
+}
